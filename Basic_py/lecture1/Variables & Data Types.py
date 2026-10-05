@@ -1,7 +1,7 @@
 print("Hello World")
 
 # Variables define karna
-name = "Shradha"
+name = "Satish"
 age = 23
 price = 25.99
 old = False
