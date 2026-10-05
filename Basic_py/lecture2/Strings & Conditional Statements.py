@@ -15,14 +15,14 @@ print("Length of final_str:", len(final_str))
 # File Name: lecture2.py
 
 # 1. Indexing (Characters ko position se access karna)
-str = "Apna_College"
+str = "Ace_hi_Colleg"
 print(str[0])   # Output: 'A'
 print(str[5])   # Output: 'C'
 
 # Note: str[0] = 'B' allowed nahi hai kyunki Strings immutable hoti hain.
 
 # 2. Slicing (Positive Indexing)
-str2 = "ApnaCollege"
+str2 = "AcehiColleg"
 print(str2[1:4])  # Output: "pna" (ending index 4 include nahi hota)
 print(str2[:4])   # Output: "Apna" (Same as str2[0:4])
 print(str2[1:])   # Output: "pnaCollege" (Same as str2[1:len(str2)])
