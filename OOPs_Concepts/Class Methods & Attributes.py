@@ -1,5 +1,3 @@
-# File Name: lecture8.py
-
 class Student:
     # Class Attribute
     college_name = "ABC College"
