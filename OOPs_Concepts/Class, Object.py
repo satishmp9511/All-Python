@@ -1,5 +1,3 @@
-# File Name: lecture8.py
-
 # 1. Class definition (Blueprint)
 class Student:
     # Class Attribute (sab objects ke liye common)
