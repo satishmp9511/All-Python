@@ -1,0 +1,11 @@
+---hello Satish welcome to expense---
+
+item name: Satish ko Diya he
+amount:100 time:19:22:31 
+date:06/13/26
+item name: food me gay he
+amount:45 time:19:22:50 
+date:06/13/26
+item name:satish mjj
+amount:525 time:05:25:28 
+date:06/14/26
